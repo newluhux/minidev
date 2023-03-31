@@ -5,12 +5,6 @@
 nginx
 fcgiwrap
 
-## ubuntu
-
-```
-apt install nginx fcgiwrap -y
-```
-
 # start web server
 
 ```
